@@ -7,4 +7,4 @@
   <img src="https://img.shields.io/badge/Python-007396?style=round-square&logo=Python&logoColor=white"/>
   
 <p align="right">
-<a href="https://strongyoung.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://strongyoung.tistory.com/"/></a>
+<a href="https://strongyoung.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=round-square&logo=GitHub Sponsors&logoColor=white&link=https://strongyoung.tistory.com/"/></a>

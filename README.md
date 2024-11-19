@@ -4,7 +4,7 @@
 
 <h2 align="center"> 🎨 Stack <br> </p>
 
-  <img src="https://img.shields.io/badge/Python-007396?style=round-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-3776AB?style=round-square&logo=Spring Boot&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/Python-007396?style=round-square&logo=Python&logoColor=white"/>
+  
 <p align="right">
 <a href="https://strongyoung.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://strongyoung.tistory.com/"/></a>

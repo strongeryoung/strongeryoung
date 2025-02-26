@@ -5,10 +5,8 @@
 <h2 align="center"> 🎨 Stack <br> </p>
 
   <img src="https://img.shields.io/badge/Python-007396?style=round-square&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postgresql-4169E1?style=round-square&logo=Postgresql&logoColor=white"/></a>&nbsp     
-
- <img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/></a>&nbsp                
+  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=round-square&logo=Postgresql&logoColor=white"/></a>   
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/></a>          
 
   
 <p align="right">

@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/></a>      <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/></a>          <!-- OracleDB -->
 
-<br/>
+<br>
 
 <p align="right">
 <a href="https://strongyoung.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=round-square&logo=GitHub Sponsors&logoColor=white&link=https://strongyoung.tistory.com/"/></a>
